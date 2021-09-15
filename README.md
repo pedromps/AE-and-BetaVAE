@@ -20,4 +20,4 @@ https://openreview.net/pdf?id=Sy2fzU9gl - where the "β part" is introduced into
 The code was adjusted around the data used, which cannot be disclosed fully due to the nature of the Master's Thesis for which they were used. Naturally the hyperparameters of these algorithms can be changed and adapted to match the needs of a different dataset.
 
 
-Finally, the folder with the results contains a plot taken from my Master's Thesis where there are imputation results with the β-VAE, another generative method and simpler imputation methods. The results are described in a file included in that directory.
+Finally, the folder with the results contains a plot taken from my Master's Thesis where there are imputation results with the β-VAE, another generative method and simpler imputation methods. The results are described in a file (RESULTS.MD) included in that directory.
