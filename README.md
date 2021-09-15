@@ -1,4 +1,4 @@
-# covidcurvefit
+# AE and β-VAE
 This repository contains code for an Autoencoder and a β Variational Autoencoder and some results. The code was developed for longitudinal time series data in my Master's Thesis.
 
 
