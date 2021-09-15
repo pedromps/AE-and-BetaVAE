@@ -8,6 +8,7 @@ from keras.layers import Dense, Masking
 from keras.layers import RepeatVector
 from keras.layers import TimeDistributed
 
+#uncomment this line to get the code to work. the data has to be in appropriate dimensions for LSTMs and in numpy format
 # x_data = np.load(os.path.join(os.getcwd(), "vae_data/data.npy"))
 
 #normalise data
